@@ -1,4 +1,4 @@
-#** Traffic Sign Recognition **
+# ** Traffic Sign Recognition **
 
 ** Udacity Self Driving Car Nanodegree - Project #2 **
 
